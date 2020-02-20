@@ -1,2 +1,3 @@
 # linear_gradient
 linear gradient generator 3 color background...
+first project after knowing javascript
